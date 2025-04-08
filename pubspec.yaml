@@ -16,7 +16,7 @@ dependencies:
   video_player_android:
     git:
       url: https://github.com/aizazfluttermaximus/android_player
-      ref: f01d3486ac2be72816061364fc7b9fe8abebb6cf
+      ref: b629ab86e03d462a19d9b1444fc46ce79af91f80
   video_player_avfoundation: ^2.0.0
   video_player_platform_interface: ^6.1.0
   video_player_web: ^2.0.0
